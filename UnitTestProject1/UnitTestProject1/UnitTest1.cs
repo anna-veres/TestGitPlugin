@@ -13,4 +13,7 @@ namespace UnitTestProject1
     }
 }
 new new 
-    newwwww qs  qs  qs
+    newwwww qs  qs  qs qweqwe
+    qwe
+    qew
+    we
